@@ -1,0 +1,16 @@
+
+#home {
+    background-color: aqua;
+    height: 800px;
+}
+
+
+
+#prompt_box {
+    background-color: black;
+    height: 50px;
+    width: 90%;
+    border-radius: 20px;
+    padding-left: 20px;
+    
+}
